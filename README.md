@@ -1,16 +1,77 @@
-# bmi_app
+# 📱 Flutter BMI Calculator App
 
-A new Flutter project.
+A simple and clean **BMI (Body Mass Index) Calculator App** built using **Flutter**.
+This app allows users to enter their **weight and height** to calculate their BMI and determine whether they are **Underweight, Healthy, or Overweight**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* Enter **Weight (kg)**
+* Enter **Height (Feet & Inches)**
+* Calculates **BMI instantly**
+* Shows **health status** based on BMI
+* Clean and simple **Flutter UI**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+* **Flutter**
+* **Dart**
+* **Material UI**
+
+---
+
+## 📸 App Screenshot
+
+<p align="center">
+  <img src="screenshots/bmi_app_ui.png" width="300">
+</p>
+
+---
+
+## 📂 Project Structure
+
+```
+flutter_BMI_App
+│
+├── lib
+│   └── main.dart
+├── screenshots
+│   └── bmi_app_ui.png
+├── pubspec.yaml
+└── README.md
+```
+
+---
+
+## ▶️ How to Run the App
+
+1. Clone the repository
+
+```
+git clone https://github.com/silentboy-07/flutter_BMI_App.git
+```
+
+2. Go to the project folder
+
+```
+cd flutter_BMI_App
+```
+
+3. Install dependencies
+
+```
+flutter pub get
+```
+
+4. Run the app
+
+```
+flutter run
+```
+
+---
+
+⭐ If you like this project, feel free to **star the repository**.
