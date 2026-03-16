@@ -26,7 +26,7 @@ This app allows users to enter their **weight and height** to calculate their BM
 ## 📸 App Screenshot
 
 <p align="center">
-  <img src="screenshots/bmi_app_ui.png" width="300">
+  <img src="screenshots/Screenshot_1png" width="200">
 </p>
 
 ---
